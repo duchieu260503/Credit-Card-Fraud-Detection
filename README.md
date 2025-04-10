@@ -71,9 +71,16 @@ To run the app locally, follow these steps:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
+
+## Images
+
+![Plot 1](./images/plot1.png)
+![Plot 2](./images/plot2.png)
+![Screenshot](./images/screenshot.png)
 
 ## Acknowledgements
 
 - **Dataset**: [Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 - **Libraries**: Streamlit, scikit-learn, pandas, matplotlib, seaborn, joblib, imbalanced-learn
+- **Author**: [Hieu Pham](mailto:duchieu260503@gmail.com)
